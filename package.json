@@ -6,7 +6,7 @@
   "author": "Jason Lee <huacnlee@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "mathjax-node": "^2.1.1"
   },
   "scripts": {
